@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e90962d9-9afc-4e9d-abd9-2a90df75a6e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppRolesMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppRolesMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppUserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppUserMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/ProduitMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/ProduitMapperImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abdellahkaba&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abdellahkaba/maven-lab1.git&quot;,
+    &quot;accountId&quot;: &quot;4dc020dc-9ad0-4042-94cc-af164ee7ad4c&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.2.12\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2srrK6WLZaJgRftX2ybeKAAOfkS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AppRolesServiceImplTest.getAppRoles.executor": "Run",
+    "JUnit.AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles (1).executor": "Run",
+    "JUnit.AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles.executor": "Run",
+    "JUnit.AppRolesServiceImplTest.saveAppRoles.executor": "Run",
+    "JUnit.CommandeImplTest.executor": "Run",
+    "JUnit.ServicesApplicationTests.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.StartApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Documents/JEE/TRAVAUX PRATIQUES/labs/maven-lab1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.35301507",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kaba\Documents\maven-lab1\services\src\main\java\com\isi\maven\services\exception" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.isi.maven.services.service.imp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartApplication">
+    <configuration name="AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isi.maven.services.service.imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.isi.maven.services.service.imp" />
+      <option name="MAIN_CLASS_NAME" value="com.isi.maven.services.service.imp.AppRolesServiceImplTest" />
+      <option name="METHOD_NAME" value="getAppRoles_ShouldReturnAllRoles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles" type="JUnit" factoryName="JUnit" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" printAsyncStackTraceForExceptions="false">
+      <module name="services" />
+      <option name="PACKAGE_NAME" value="com.isi.maven.services.service.imp" />
+      <option name="MAIN_CLASS_NAME" value="com.isi.maven.services.service.imp.AppRolesServiceImplTest" />
+      <option name="METHOD_NAME" value="getAppRoles_ShouldReturnAllRoles" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xshare:off " />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppRolesServiceImplTest.saveAppRoles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isi.maven.services.service.imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.isi.maven.services.service.imp" />
+      <option name="MAIN_CLASS_NAME" value="com.isi.maven.services.service.imp.AppRolesServiceImplTest" />
+      <option name="METHOD_NAME" value="saveAppRoles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandeImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isi.maven.services.service.imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.isi.maven.services.service.imp" />
+      <option name="MAIN_CLASS_NAME" value="com.isi.maven.services.service.imp.CommandeImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicesApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isi.maven.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.isi.maven.services" />
+      <option name="MAIN_CLASS_NAME" value="com.isi.maven.services.ServicesApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.isi.maven.start.StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles (1)" />
+      <item itemvalue="JUnit.CommandeImplTest" />
+      <item itemvalue="JUnit.ServicesApplicationTests" />
+      <item itemvalue="JUnit.AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles" />
+      <item itemvalue="JUnit.AppRolesServiceImplTest.saveAppRoles" />
+      <item itemvalue="Spring Boot.StartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommandeImplTest" />
+        <item itemvalue="JUnit.AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles (1)" />
+        <item itemvalue="JUnit.ServicesApplicationTests" />
+        <item itemvalue="JUnit.AppRolesServiceImplTest.getAppRoles_ShouldReturnAllRoles" />
+        <item itemvalue="JUnit.AppRolesServiceImplTest.saveAppRoles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e90962d9-9afc-4e9d-abd9-2a90df75a6e0" name="Changes" comment="" />
+      <created>1739224468128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739224468128</updated>
+      <workItem from="1739224469308" duration="3556000" />
+      <workItem from="1739695591584" duration="22242000" />
+      <workItem from="1739723789542" duration="296000" />
+      <workItem from="1740051738589" duration="2083000" />
+      <workItem from="1740093170005" duration="740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

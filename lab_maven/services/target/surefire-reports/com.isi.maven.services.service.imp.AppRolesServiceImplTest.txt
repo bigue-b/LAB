@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: com.isi.maven.services.service.imp.AppRolesServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.729 s <<< FAILURE! -- in com.isi.maven.services.service.imp.AppRolesServiceImplTest
+com.isi.maven.services.service.imp.AppRolesServiceImplTest.deleteAppRoles_WithValidId_ShouldDeleteRole -- Time elapsed: 0.093 s <<< FAILURE!
+Wanted but not invoked:
+iAppRolesRepository.findById(1);
+-> at com.isi.maven.services.service.imp.AppRolesServiceImplTest.deleteAppRoles_WithValidId_ShouldDeleteRole(AppRolesServiceImplTest.java:141)
+
+However, there was exactly 1 interaction with this mock:
+iAppRolesRepository.deleteById(1);
+-> at com.isi.maven.services.service.imp.AppRolesServiceImpl.deleteAppRoles(AppRolesServiceImpl.java:79)
+
+
+	at com.isi.maven.services.service.imp.AppRolesServiceImplTest.deleteAppRoles_WithValidId_ShouldDeleteRole(AppRolesServiceImplTest.java:141)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
+com.isi.maven.services.service.imp.AppRolesServiceImplTest.deleteAppRoles_WithInvalidId_ShouldThrowRequestException -- Time elapsed: 0.027 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Expected com.isi.maven.services.exception.RequestException to be thrown, but nothing was thrown.
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:35)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3128)
+	at com.isi.maven.services.service.imp.AppRolesServiceImplTest.deleteAppRoles_WithInvalidId_ShouldThrowRequestException(AppRolesServiceImplTest.java:153)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

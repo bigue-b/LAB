@@ -1,0 +1,12 @@
+<div class="container">
+    <h2>Commande API</h2>
+    
+    <p><strong>Message Commande:</strong> {{ commandeMessage }}</p>
+  
+    <button (click)="calculateSomme()">Calculer Somme (5 + 6)</button>
+  
+    <p *ngIf="sommeResult !== null">
+      <strong>Résultat Somme:</strong> {{ sommeResult }}
+    </p>
+  </div>
+  
