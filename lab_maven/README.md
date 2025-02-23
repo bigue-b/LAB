@@ -4,7 +4,6 @@ Avant de commencer, assurez-vous d'avoir installé :
 ```bash
 - Java 17+
 - Maven 3.9
-- Node.js 22 et npm 10 (pour Angular)
 ```
 
 ## 2️⃣ Construire le projet
