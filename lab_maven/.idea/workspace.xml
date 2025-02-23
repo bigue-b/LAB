@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e90962d9-9afc-4e9d-abd9-2a90df75a6e0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppRolesMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppRolesMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppUserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/AppUserMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/ProduitMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/target/generated-sources/annotations/com/isi/maven/services/mapping/ProduitMapperImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -43,6 +39,9 @@
     &quot;accountId&quot;: &quot;4dc020dc-9ad0-4042-94cc-af164ee7ad4c&quot;
   }
 }</component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.2.12\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -63,6 +62,7 @@
     "JUnit.AppRolesServiceImplTest.saveAppRoles.executor": "Run",
     "JUnit.CommandeImplTest.executor": "Run",
     "JUnit.ServicesApplicationTests.executor": "Run",
+    "Maven.commandes [clean,install].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -222,6 +222,7 @@
       <workItem from="1739723789542" duration="296000" />
       <workItem from="1740051738589" duration="2083000" />
       <workItem from="1740093170005" duration="740000" />
+      <workItem from="1740331658308" duration="889000" />
     </task>
     <servers />
   </component>
