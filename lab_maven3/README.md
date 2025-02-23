@@ -13,13 +13,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 ```bash
 mvn clean install
 ```
-Cela construira tous les modules (services et web).
 
-💡 Compiler un module spécifique :
-
-```bash
-mvn clean install 
-```
 ![lab_maven3](cap1.png)
 
 ## Building
