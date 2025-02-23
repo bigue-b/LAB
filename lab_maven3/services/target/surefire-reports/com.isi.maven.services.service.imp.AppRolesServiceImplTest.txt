@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.isi.maven.services.service.imp.AppRolesServiceImplTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.794 s -- in com.isi.maven.services.service.imp.AppRolesServiceImplTest
